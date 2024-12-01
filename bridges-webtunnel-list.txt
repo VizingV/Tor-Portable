@@ -53,6 +53,11 @@ Bridge webtunnel [2001:db8:f6a5:84f8:64c4:4d47:2643:66d7]:443 4B781451470949E817
 Bridge webtunnel [2001:db8:f37a:49d9:c85f:3e7b:eb39:853e]:443 7E8CB9592C97B8ADD03D374A8E207CAAE5121336 url=https://gia.shallotfarm.org/3IMx3r7r1hKVsW136nx9vVMD ver=0.0.1 - WebTunnelCN
 Bridge webtunnel [2001:db8:b91b:9b4c:8003:9671:eee:7f0a]:443 B80A80398FDE7F94C6C72F9429D8EA128663B780 url=https://ams1.cryptomeanscryptography.club/x50fjFEcivPj42GQKfOOnyw3 ver=0.0.1 - ams1
 Bridge webtunnel [2001:db8:9c1:ce0d:e478:77be:b5b0:ddf1]:443 10158DAD71E532C7A7415BE1D1867F6F3B64620B url=https://eshop.vonitsanet.gr/VJ9CXwF1jCO0ifUJgZZeaHMx ver=0.0.1 - WhySoSerious
+Bridge webtunnel [2001:db8:ae03:9e61:9e65:cce8:fdb6:66a8]:443 CD0DFB72DE3124704AEA1BEF3A2CCD62347F6376 url=https://www2.shallotfarm.org/gKOwKgm0McUdTydo3boBiFFM ver=0.0.1 - Lon2
+Bridge webtunnel [2001:db8:aa65:68cf:bd2d:50fe:784f:1b24]:443 08B85FE2212DC548403FB684265D2B63B9C2C237 url=https://awsfft.cdn.leohearts.com/R3lHLJhq7kR54k2d9iDATWhz ver=0.0.1 - Femb01tNWh
+Bridge webtunnel [2001:db8:a434:2cba:55cb:15a6:1ece:1374]:443 630AABF104AEF8CFEC9AADA366F1955A1F7054BF url=https://3122.null-f.org/smBcouaVMbpJZiBeZudubD5p ver=0.0.1 - nullfbridge
+Bridge webtunnel [2001:db8:2b58:9764:2fcf:67a0:1d1d:b622]:443 9255D4ADB05B7F8792E49779E4DF382BF7B2BE01 url=https://3124.null-f.org/KFfqlXliDgBsyHEtT0SKO1i5 ver=0.0.1 - nullfbridge
+Bridge webtunnel [2001:db8:3099:ba43:4140:4d47:439f:9e46]:443 6108EC343554D32AA249A923B063DF53E8F542A7 url=https://gotland.digital/O9uoLJE6S1vADGAgA2QC9WOx ver=0.0.1 - Bornholm
 
 == BAD BRIDGES ==
 Bridge webtunnel [2001:db8:6281:baa0:afc0:9579:b303:59a7]:443 377CF6FCBFD2E57D0775EA6F2E8D3EF0D8CDD02F url=https://cryptomeanscryptography.club/TfDS3X50Rf3dR5x3Q3vLS25o ver=0.0.1 - WTBrLJ4QIWZZk1 (RIP)
@@ -110,6 +115,7 @@ Bridge webtunnel [2001:db8:e8e9:17e2:29e:4000:4f30:1802]:443 DDEF980C8AC6C183449
 Bridge webtunnel [2001:db8:e80a:7d8e:8814:3b1b:1fdd:23ec]:443 89C890285B8973D3A2156E15346B50FC185C814D url=https://consolehub.uk/zeix2sahlaluRoniPhoo ver=0.0.1
 Bridge webtunnel [2001:db8:ed78:c452:ced0:4bde:3f97:7936]:443 12CDCBAD16B1526D63D37F61201FCE83BDCA8B75 url=https://front-eu1.webdeliveryonl.click/7ScDHGDaBsqHtxB1B9GJ2sB7 ver=0.0.1
 Bridge webtunnel [2001:db8:f501:5e2b:27a0:2475:bf96:10d8]:443 B31170341D35C6E1FB5416BEB219E349D8FE093D url=https://files.gus.computer/kd2DLzS5EJEcB5LRsHS22pLE ver=0.0.1
+Bridge webtunnel [2001:db8:af3b:9cac:d759:cc6b:799d:1bed]:443 A03D0ACFF094C4BDC7C830F20C78990EAB55C29B url=https://www.haxor64.com/IpOepowNOfpwnLC9IRKNidw9 ver=0.0.1
 
 == bauruine ==
 bauruine.
