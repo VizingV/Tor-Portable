@@ -38,7 +38,6 @@ Bridge webtunnel [2001:db8:afc8:4fe0:c021:5377:36bf:e9b7]:443 3BDD7036FAC9CC81AD
 Bridge webtunnel [2001:db8:b98f:a90b:55bd:a31a:447a:fabe]:443 A9B1396F472C048D739C3F59D8EECCDD66BB3970 url=https://btc.heelsn.eu/GFhxmDmunELMA5RNqskJ4UN4 ver=0.0.1 - c0mXTk3k
 Bridge webtunnel [2001:db8:a634:bf27:a89e:4:2de:cb6]:443 8943BF53C9561C75A7302ED59575EF71E2B26562 url=https://fast.heelsn.eu/MsCfO3oc0rCsRkzDbZw8G8bT ver=0.0.1 - q0AwiQDN3M
 Bridge webtunnel [2001:db8:ba30:5074:c2e6:663:42e8:de84]:443 6C3C97ECF9D5984838CCFA4774C25E281E87E9D6 url=https://dns.rawbit.ninja/jbsEXCoUvbZLbd3taETimEfM ver=0.0.1 - WTBrUVxP6VjNbh
-Bridge webtunnel [2001:db8:bcbf:d7d2:facb:e9d6:cf06:ab93]:443 8C70788C18CCF7528848890E0FFD21FAE2133C1E url=https://atlantico-dev.arrecife.link/OddoMptjadoEtoDWtl67oC4q ver=0.0.1 - atlantico
 Bridge webtunnel [2001:db8:db1c:7ed2:2099:a9ba:677a:1708]:443 44285E8B72F490B9D884BCAF67B1297FB31D7B1B url=https://pacifico-dev.arrecife.link/1arHJqF7FetebSZ811eBwyRq ver=0.0.1 - pacifico
 Bridge webtunnel [2001:db8:bd88:ba8c:31d5:5bfc:e398:e22a]:443 5C416460CA3D1C72F89EAA654B668CE58943F1E0 url=https://www.readthefinemanual.net/LTi1BwOcMQmZ2kCGl1CK9plm ver=0.0.1 - RTFMWebTunnelTest
 Bridge webtunnel [2001:db8:c28c:4e5f:ebd4:5fa5:dea9:f901]:443 2307A05F4EA0E8E215100D3934157213E564AE7E url=https://f.ufw.icu/eg9PbqaxSvIbjtbVZMt9H7xF ver=0.0.1 - WTBr1zT3oEif4O
@@ -91,7 +90,7 @@ Bridge webtunnel [2001:db8:dfeb:8189:b107:7be4:65a0:3f64]:443 D35BF743719A3110FD
 Bridge webtunnel [2001:db8:49e2:b1f1:8193:df4a:5f7d:41b2]:443 D01A87AF2B3C6F664AEBD1C45D9EC3D06FBF48C9 url=https://foto.pho.be/qBctgmXaIUAzfXkQphtCQSTI ver=0.0.1 - FitzRoy, 19.11.2024 TOP 1, RIP ;--;
 Bridge webtunnel [2001:db8:6281:baa0:afc0:9579:b303:59a7]:443 377CF6FCBFD2E57D0775EA6F2E8D3EF0D8CDD02F url=https://cryptomeanscryptography.club/TfDS3X50Rf3dR5x3Q3vLS25o ver=0.0.1 - WTBrLJ4QIWZZk1 (RIP)
 Bridge webtunnel [2001:db8:63b4:6bd7:a357:7858:898e:718c]:443 059AEB126918A33B8246E8136D565FF57753D5CF url=https://alwaysnewbie.eu.org/homesweethome ver=0.0.1 (RIP, worked well in September 2024, don't remember the name)
-Bridge webtunnel [2001:db8:5267:3758:c22e:88ba:7fc4:fa7f]:443 2FDE90A29171751BD964325FC002D17E739057F6 url=https://gateway.005184.xyz/QY6NCS5qYfcGo9c6Srfh5BGMjecCKj936BZRkyu3zo8pNB53 ver=0.0.1 - AltCunningham
+Bridge webtunnel [2001:db8:bcbf:d7d2:facb:e9d6:cf06:ab93]:443 8C70788C18CCF7528848890E0FFD21FAE2133C1E url=https://atlantico-dev.arrecife.link/OddoMptjadoEtoDWtl67oC4q ver=0.0.1 - atlantico
 Bridge webtunnel [2001:db8:5430:b234:d4fe:b114:a74d:8017]:443 48DBA8F55E84CC481B9B50FA7DB5521DCC535134 url=https://vps.bahena.be/FmmDTW1r12UmFmMQ96AXb61N ver=0.0.1 (this, my friend Tor says, was misconfigured initially)
 Bridge webtunnel [2001:db8:7567:150e:f9a3:aa9b:b780:b8c8]:443 EA1BADD195B10F51E14A3A23444615F5F45CE9E0 url=https://oglilouhn.dedyn.io/36CjK6AA36FlAzjC3yMhoLCeqCIKHIWSGQ61w8uI7CwcirWBSJLw0oShwOn ver=0.0.1 (certif error)
 Bridge webtunnel [2001:db8:b4e6:159f:3645:ea9e:8336:a973]:443 E256FF55F939450349B6A4AFD6BDBEE777D3117F url=https://pianomementoduck.vertigocity.net/Qdh7TCSZHar3kqLVHjBspAG5 ver=0.0.1 (another misconf)
