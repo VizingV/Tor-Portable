@@ -3,6 +3,7 @@ https://metrics.torproject.org/rs.html#search/transport:webtunnel
 https://www.speedcheck.org (it is still recommended to check their speed separately before using in conflux)
 
 == GOOD BRIDGES ==
+Bridge webtunnel [2001:db8:63b4:6bd7:a357:7858:898e:718c]:443 059AEB126918A33B8246E8136D565FF57753D5CF url=https://alwaysnewbie.eu.org/homesweethome ver=0.0.1 - Scarameow, very old bridge from September 2024
 Bridge webtunnel [2001:db8:a62f:3205:a2b8:80f2:8491:9497]:443 CDCF334F257ACAD04A2C6CD9725B7FC686160912 url=https://meskio.net/eCDFZe3boSv+b2iqHiaY4ZgPxXBc ver=0.0.1 - WebTunnelBr, 19.11.2024 TOP 2
 Bridge webtunnel [2001:db8:1fc0:eebe:5e6e:d6ee:f53e:6889]:443 4A3859C089DF40A4FFADC10A79DFEBE4F8272535 url=https://verry.org/K2A2utQIMou4Ia2WjVseyDjV ver=0.0.1 - Yann, 19.11.2024 TOP 3
 Bridge webtunnel [2001:db8:77cb:5ce6:9995:7466:7ffa:b3f8]:443 770EA6412C8D3997ABFFF7173A3E53F1D3660167 url=https://shallotfarm.org/jcHgyp7m90iQr9QaVSprq1wP ver=0.0.1 - WTBrlcaFUb5NJj, 19.11.2024 TOP 4
@@ -102,7 +103,6 @@ Bridge webtunnel [2001:db8:abcb:64c9:1e41:47e8:1985:cd88]:443 CA0E738086D16BC752
 == BAD BRIDGES ==
 Bridge webtunnel [2001:db8:49e2:b1f1:8193:df4a:5f7d:41b2]:443 D01A87AF2B3C6F664AEBD1C45D9EC3D06FBF48C9 url=https://foto.pho.be/qBctgmXaIUAzfXkQphtCQSTI ver=0.0.1 - FitzRoy, 19.11.2024 TOP 1, RIP ;--;
 Bridge webtunnel [2001:db8:6281:baa0:afc0:9579:b303:59a7]:443 377CF6FCBFD2E57D0775EA6F2E8D3EF0D8CDD02F url=https://cryptomeanscryptography.club/TfDS3X50Rf3dR5x3Q3vLS25o ver=0.0.1 - WTBrLJ4QIWZZk1 (RIP)
-Bridge webtunnel [2001:db8:63b4:6bd7:a357:7858:898e:718c]:443 059AEB126918A33B8246E8136D565FF57753D5CF url=https://alwaysnewbie.eu.org/homesweethome ver=0.0.1 (RIP, worked well in September 2024, don't remember the name)
 Bridge webtunnel [2001:db8:bcbf:d7d2:facb:e9d6:cf06:ab93]:443 8C70788C18CCF7528848890E0FFD21FAE2133C1E url=https://atlantico-dev.arrecife.link/OddoMptjadoEtoDWtl67oC4q ver=0.0.1 - atlantico
 Bridge webtunnel [2001:db8:5430:b234:d4fe:b114:a74d:8017]:443 48DBA8F55E84CC481B9B50FA7DB5521DCC535134 url=https://vps.bahena.be/FmmDTW1r12UmFmMQ96AXb61N ver=0.0.1 (this, my friend Tor says, was misconfigured initially)
 Bridge webtunnel [2001:db8:7567:150e:f9a3:aa9b:b780:b8c8]:443 EA1BADD195B10F51E14A3A23444615F5F45CE9E0 url=https://oglilouhn.dedyn.io/36CjK6AA36FlAzjC3yMhoLCeqCIKHIWSGQ61w8uI7CwcirWBSJLw0oShwOn ver=0.0.1 (certif error)
