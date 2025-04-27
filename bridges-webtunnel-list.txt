@@ -29,8 +29,10 @@ Bridge webtunnel [2001:db8:a4e4:733d:a3a3:bf1f:99b6:8d95]:443 DBF2F5088B7DBB4456
 Bridge webtunnel [2001:db8:a436:6460:fa7b:318:4e8e:9de3]:443 F76C85011FD8C113AA00960BD9FC7F5B66F726A2 url=https://disobey.net/vM8i19mU4gvHOzRm33DaBNuM ver=0.0.1 - DisobeyWebTunnel
 Bridge webtunnel [2001:db8:aa16:aa07:b3:b4f0:a667:3f08]:443 775A648318DA1E1240EF0DEC038154B60696DE5B url=https://pod01.oneclickhost.eu/jLoIafiPpOBkJRJBN5mm6GPe ver=0.0.1 - Bridge
 Bridge webtunnel [2001:db8:a01a:cd94:dcfd:cbbc:8a57:9f04]:443 8ADF1761FA735FDD763781BB94A16EAB64A1CF6C url=https://pod01.oneclickhost.eu/mIIcQOVPdecV1gF8DjkVjAlx ver=0.0.1 - Bridge
+Bridge webtunnel [2001:db8:8cb3:dda9:1342:2bd:42e2:dc87]:443 1E73114F347162059AC3B4068CDE020CB9002EB6 url=https://pod02.oneclickhost.eu/IJyZVrefG6KJphpwEGMbU1eK ver=0.0.2 - Bridge
 Bridge webtunnel [2001:db8:259c:faa6:24a9:cce0:c60f:4642]:443 23958FC105E58061AFD2DECC61D363F28AB36490 url=https://pod02.oneclickhost.eu/lzcHh4sbo8bOTwkc4IwkSxNS ver=0.0.1 - Bridge
 Bridge webtunnel [2001:db8:f7d3:5976:5f99:663b:3ba1:4e3a]:443 05D0531304F2DB161921D6D03CE38DB1CA2332D6 url=https://pod03.oneclickhost.eu/d0NbsV36v0Q4MDdDTs3ZhCCJ ver=0.0.1 - Bridge
+Bridge webtunnel [2001:db8:df97:f51:d643:6c67:848a:60a7]:443 2C9FF2DE2E07A722BCF233E607947241887FF295 url=https://pod03.oneclickhost.eu/ZfIEm13F3FSDuV227jCPK0rc ver=0.0.2 - Bridge
 Bridge webtunnel [2001:db8:28ff:ae4f:c:9ef6:1722:ac46]:443 1098B4E153AB1666B4F63F48325A103FB005940F url=https://pod04.oneclickhost.eu/FeTyRXzPPAzwIjuxzWxwl09N ver=0.0.1 - Bridge
 Bridge webtunnel [2001:db8:f3f8:1a33:dba0:17f6:35ce:24f3]:443 963668851C177DC162895A33F1473E32E1E4BE56 url=https://pod05.oneclickhost.eu/K5Fsvkz3SaWjVPm4i0vn5gIs ver=0.0.1 - Bridge
 Bridge webtunnel [2001:db8:ac78:6993:e8c7:326:3058:bdb9]:443 7EA2E4CCC95E224F85136C5BF3B2D25EA772965E url=https://ptnpnhcdn.net/QtGb9Jxe8zmlS03ZWZ3Vc2DLRDNZ5 ver=0.0.1 - cTBrnnnUm6fsduRDNZ
@@ -49,6 +51,7 @@ Bridge webtunnel [2001:db8:d6b7:10ae:b5cf:811a:7f22:4596]:443 63BAB47B6DB9CA74AA
 Bridge webtunnel [2001:db8:e569:2f63:fc9:6d12:1572:bedd]:443 291666C8F9E8736771E046DAC04FA4DA35F89467 url=https://deimos.fedfe1.xyz/k2deAz76zzWAwtSOusXE ver=0.0.1 - WTBrBopt3xikg1
 Bridge webtunnel [2001:db8:ece6:a97f:c608:ac46:d9d5:af74]:443 2CF5232525187101F49ED9ED7A75678DA920EB6E url=https://nextcloud.kiljan.org/v4bpkQtAiqV9QfdKda54PXAI ver=0.0.1 - SomeOnesWebTunnel
 Bridge webtunnel [2001:db8:ee24:56fd:ae56:d9c5:5a60:50e9]:443 F5038BA595B75BD87A295CA6060214CCD4280F2F url=https://matrix.entreri.de/T7DftXeW40wIEkm15U0PHgwX ver=0.0.1 - Limoneneisbridge
+Bridge webtunnel [2001:db8:8a96:b122:e199:d511:c55e:6bcb]:443 F5038BA595B75BD87A295CA6060214CCD4280F2F url=https://bridges.lovethosetrains.com/iwCXEhbdY7ErwP8J4MRavyAj ver=0.0.1 - limoneneisbridge
 Bridge webtunnel [2001:db8:f4cd:7684:f375:5cf5:90e5:1b20]:443 0C754A36C8385B40C7BAC61FA8435629A0B1506B url=https://bw.jackyes.ovh/wt/HUxIfu6I1xSbNA0AwK0jUGD2 ver=0.0.1 - WTBrFAL2FDyl9I
 Bridge webtunnel [2001:db8:f6a5:84f8:64c4:4d47:2643:66d7]:443 4B781451470949E817FA83C75B4C12A8C75B83F7 url=https://uqw.hopto.org/omghidden ver=0.0.1 - omghidden
 Bridge webtunnel [2001:db8:f37a:49d9:c85f:3e7b:eb39:853e]:443 7E8CB9592C97B8ADD03D374A8E207CAAE5121336 url=https://gia.shallotfarm.org/3IMx3r7r1hKVsW136nx9vVMD ver=0.0.1 - WebTunnelCN
@@ -79,14 +82,22 @@ Bridge webtunnel [2001:db8:eb48:18d1:b5ac:62d0:da55:f164]:443 B9B09EDFAEA3824D62
 Bridge webtunnel [2001:db8:f104:6599:bd56:6b9e:de19:9c5c]:443 84CD9FC75D2D777D93E08EC58293869DE374C67A url=https://webtunnel.defencegeeks.net/a36ZOiwo5I5qocKQ3SBJwNkT ver=0.0.1 - WTBriQcxXsR3tk
 Bridge webtunnel [2001:db8:6c93:f13b:2c4a:c23a:6e2:bdff]:443 E4535812FC6456C0B5C8CC6C2CF9337D87A98B3D url=https://1-fra.sports-streams.org/9DAwZ4fqTh6vJWSj0j376God ver=0.0.1 - UnredactedWT1FRA
 Bridge webtunnel [2001:db8:d356:23c3:ee0d:5a35:271a:30e]:443 40254C3F76F126C8D30C5FCEEAF9CE88C335FE0C url=https://1-cvt.sports-streams.org/4amFA6F3SRQ1HU47U5jSrLPU ver=0.0.1 - UnredactedWT1CVT
+Bridge webtunnel [2001:db8:6b89:9ff2:4e1d:4360:8a76:46b9]:443 1871FCBF5CB4E100E140EF5CE318EA199BEEABDC url=https://1-tll.sports-streams.org/Q51hpbrcqFy8HHD7qwBi102d ver=0.0.2 - UnredactedWT1TLL
 Bridge webtunnel [2001:db8:986e:c5ca:6049:65ed:af8c:fb5d]:443 B0F930FBB2AD6E0464F8DE0A92BB2D211CB9B010 url=https://lulea.frostbay.org/TheNorthernGateway ver=0.0.1 - TheNorthernGateway
 Bridge webtunnel [2001:db8:a379:1522:ea89:9c9d:59c8:1d5a]:443 B55A418B4F30181ED304EB2698EE58D283BEE5BF url=https://mirror.sanin.dev/f6VK8vgUKiq3HX6FHdbQpUaa ver=0.0.1 - WTBrRNcgMOmCxy
 Bridge webtunnel [2001:db8:becc:a93c:96b5:217:25c9:bf5e]:443 503357E571DD59E224EDBF92828344E7FDC11FFC url=https://umea.frostbay.org/TheCityOfBirches ver=0.0.1 - TheCityOfBirches
 Bridge webtunnel [2001:db8:1d30:ff54:bba:de27:3861:ff8c]:443 93F50F39F559F2BC2D0C8F936239017AC85AA9BE url=https://rabbithole2.net/4kHLbQkqWJV0Jxfk28H5MySc ver=0.0.1 - rabbithole
 Bridge webtunnel [2001:db8:102a:2660:d56a:f8c4:2970:1434]:443 A633EAF9A7DC0E715183359C38E4DAE4515D1EF7 url=https://tunnel-1.linuxenby.is/srgV09L4fn4kdkoE0vP92nvK ver=0.0.1 - linuxenbyWebTunnel1
-Bridge webtunnel [2001:db8:8a96:b122:e199:d511:c55e:6bcb]:443 F5038BA595B75BD87A295CA6060214CCD4280F2F url=https://bridges.lovethosetrains.com/iwCXEhbdY7ErwP8J4MRavyAj ver=0.0.1 - limoneneisbridge
 Bridge webtunnel [2001:db8:dfeb:8189:b107:7be4:65a0:3f64]:443 D35BF743719A3110FD895C8356056337D7D93FD8 url=https://pink.coyp.us/ScayDKFxVp1WUV47Sf1Mtm57 ver=0.0.1 - boaboa
 Bridge webtunnel [2001:db8:8e54:c386:c25e:3697:e8f8:377d]:443 3EE00C6568B9DC9F15D1479CEB954FC8856366C3 url=https://cyfog.net/nOzNIJFUBQWlGRhmACMeclRw ver=0.0.1 - WTBrJeZAJDHDfR
+Bridge webtunnel [2001:db8:77dc:4180:2d73:7fda:59f4:5284]:443 6F6C8E0069880AC253704507119464CE4BD1BA65 url=https://dev-test.catcat.pictures/Fj7VnJi1mjigUKBb2rJ1TeWJ ver=0.0.2 - whiskey00
+Bridge webtunnel [2001:db8:4b0:feea:81d8:72b9:95c1:cd62]:443 A6A5AF5E8410EB76647925F66AB2B5810A2C3791 url=https://wolkewolkewolke.zip/xrCyxOQH6HOe952fVtzKMGDN ver=0.0.2 - whiskey04
+Bridge webtunnel [2001:db8:6d:db79:5707:93c:1e2:d607]:443 BCDDD1CED6E15A1E1E690A6FEF54A6FA2A099753 url=https://golfo-de-mexico.arrecife.link/OddoMptjadoEtoDWtl67oC4q ver=0.0.2 - GolfodeMexico
+Bridge webtunnel [2001:db8:8d16:cb5b:d7f5:504b:8768:bdd3]:443 570FEB15763CC623146E8433ACA751948A6756D4 url=https://pl.808.re/SDglNGoixITem7ZHxQKXSscK ver=0.0.2 - PL808
+Bridge webtunnel [2001:db8:603c:2434:873c:4d58:9fd0:91e0]:443 56626E4B996EB1C9F4C0B573888E8EE3C4E28472 url=https://kriptohomyaki.org/4USXwPrEoemgJOXPmgjxPOAkQa1UG7To ver=0.0.2 - F24oWebTunnelBridge
+Bridge webtunnel [2001:db8:6058:da1e:73ae:7895:269d:65e8]:443 55F0AFE5713A0ECC4EFBE654031ED0DB3FC6482B url=https://wtb002.unshakled.net/O6pZlZqf63zx4k1fIBLWSDu0 ver=0.0.1 - UnshakledWtb002
+Bridge webtunnel [2001:db8:9682:54ae:e207:1128:e065:2e9b]:443 C05C827E5A85ACAE4CD73A8A5C0FA1E8EDFA4FAD url=https://arinalee.2cat.nl/apache ver=0.0.1 - utena000
+Bridge webtunnel [2001:db8:abcb:64c9:1e41:47e8:1985:cd88]:443 CA0E738086D16BC752E2A6C6BE8B05EE6F106AB9 url=https://telcomsoruq.link/zNd1BTKQMoOIkGyCoeQ8sRAL ver=0.0.1 - REDBRICKrtoKzZhU1aI
 
 == BAD BRIDGES ==
 Bridge webtunnel [2001:db8:49e2:b1f1:8193:df4a:5f7d:41b2]:443 D01A87AF2B3C6F664AEBD1C45D9EC3D06FBF48C9 url=https://foto.pho.be/qBctgmXaIUAzfXkQphtCQSTI ver=0.0.1 - FitzRoy, 19.11.2024 TOP 1, RIP ;--;
@@ -174,6 +185,12 @@ Bridge webtunnel [2001:db8:bd14:7fd4:4826:415a:4940:fae4]:443 B45087C78341E038C9
 Bridge webtunnel [2001:db8:e4a7:edbd:1444:58ad:944f:9db]:443 BA9F3D1C9876B1BCA18E89B3B253C0EEC42C03E8 url=https://t.vps.webdock.cloud/Zf4jNOwMk7xMhVfnf9BAGCVM ver=0.0.1
 Bridge webtunnel [2001:db8:f94a:4a44:368e:16f9:4e14:967b]:443 D4FFD404FD698686C62CDB93B0C2CB51F1512F9B url=https://chaosrealm.ru/torEBA67 ver=0.0.1
 Bridge webtunnel [2001:db8:8751:9da9:ee7b:1fb7:6c0e:14c7]:443 8730FFD22909C8248092159DEBAA78726A02E6C3 url=https://corazon.gateplanets.com/SbPfqs9Dyg2OV0R1QPLXfZRp ver=0.0.2
+Bridge webtunnel [2001:db8:2e6d:f72:cedd:e521:c579:44bf]:443 E2BC4AE4EDD648DC6736EFFEDC553759C981C5D2 url=https://wildnetwork.pro/vj987mhv9c6ng9sd876sgvn ver=0.0.1
+Bridge webtunnel [2001:db8:5de4:df2c:316:a7d1:fee4:d128]:443 A35EA8E81BEC48C15960D497DD9024F430F6EA8F url=https://corazon.gateplanets.com/vt1F7zWiucmEjdoh ver=0.0.2
+Bridge webtunnel [2001:db8:7d43:34f7:85d8:c549:d810:3290]:443 C16189133575FA98ED8E7ECAC04643C3E5B6D4A9 url=https://proxy.txeq.xyz/0k5iQ0H15gDc9OTrBAi42Qja5jgh9Wzc ver=0.0.1
+Bridge webtunnel [2001:db8:689f:59c4:3fe7:8e94:1b8a:fff7]:443 44CAAE06541087B1793225BEF2AFA2BEB64A6C1A url=https://vultr.chrishu.dedyn.io ver=0.0.2
+Bridge webtunnel [2001:db8:cbb2:b5c:3c78:31fd:b13d:538d]:443 0DC4519194398C4B3259774E77274DF08552E44A url=https://evillarin.com ver=0.0.2
+Bridge webtunnel [2001:db8:d265:8b2:d077:92d0:83b7:63f1]:443 402F8543DB594C4D4D13E5A2582BD6DDF4066B67 url=https://bg.808.re/3ZqdSLX2XTFuxbLEsZxZfLiZ ver=0.0.2
 
 == bauruine ==
 bauruine.
