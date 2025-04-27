@@ -108,7 +108,6 @@ Bridge webtunnel [2001:db8:6d91:1d3e:230b:9d98:8e29:eefc]:443 C762244C9E351B4A63
 Bridge webtunnel [2001:db8:880a:108b:916e:70d9:1f77:d755]:443 933C998EC827D1C17CC93D1292BBC41735867CF8 url=https://wt.xoomlia.com/Lsd6ebydoA5t5JdXGLq71O2I ver=0.0.1 -TunnelToFreedom2
 
 == BAURUINE CLUSTER ==
-
 Bridge webtunnel [2001:db8:3efd:128e:fb6a:992a:3271:7eee]:443 1A86C82FECF9EC1CE252751509D19F1D39A8B0F6 url=https://pythonpioneer.website/ieheithooPaiXi9manga ver=0.0.1
 Bridge webtunnel [2001:db8:5e51:2e1d:21a6:6330:cec2:8751]:443 18DF4DCFEE74F688D3502EFF18A32C31C1B93415 url=https://pythonicguides.website/aim2nie3eih1ohShei4o ver=0.0.1
 Bridge webtunnel [2001:db8:8d54:8d31:43e8:80aa:bca:24ca]:443 447BBCEB9662D3FA3133199BF47A3D4CAB2D627C url=https://gitwizardry.pw/ThieLe5Ein0luofief7o ver=0.0.1
